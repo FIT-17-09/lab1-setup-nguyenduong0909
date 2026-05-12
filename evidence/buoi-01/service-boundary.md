@@ -78,4 +78,5 @@ Service nào gọi đến service này?
 
 ## 8. Sơ đồ minh họa
 
-![alt text](image.png)
+<img width="1463" height="352" alt="image" src="https://github.com/user-attachments/assets/5bf2ebff-a42f-4359-9dd3-a115e7e56ebd" />
+
